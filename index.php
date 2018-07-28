@@ -2,6 +2,7 @@
 
 session_start();
 //this is some test code
+//this is test number 2
 if (isset($_POST['submit'])) {
 	
 	include_once 'dbh.inc.php';
