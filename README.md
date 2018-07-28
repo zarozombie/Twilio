@@ -4,7 +4,8 @@
 this project is indended to create a php web app that utilizes the Twilio API. 
 ## Requirements
 * [VS Code](https://code.visualstudio.com/) (or any other Code editor)
-* [Xamp](https://www.apachefriends.org/index.html)
+* [Xampp](https://www.apachefriends.org/index.html)
+* [Ngrok](https://dashboard.ngrok.com/user/signup)
 * [Composer](https://getcomposer.org/)
 * [Twilio SDK](https://www.twilio.com/docs/libraries/php)
 ```
@@ -12,6 +13,13 @@ in this case I put these files in C:\xamp\php\vendor
 
 All refrences used in the code will point to this file system
 ```
-* [Ngrok](https://dashboard.ngrok.com/user/signup)
 
-## in this situation I installed Twilio in the
+
+## Installation
+1. Install VS Code (or anyother code editor)
+2. Install Xampp
+3. Download Ngrok
+4. Install Composer
+5. Use composer to install Twilio SDK.
+
+
