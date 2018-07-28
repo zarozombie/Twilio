@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-
+//this is some test code
 if (isset($_POST['submit'])) {
 	
 	include_once 'dbh.inc.php';
